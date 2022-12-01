@@ -1,0 +1,6 @@
+*.dylib filter=lfs diff=lfs merge=lfs -text
+D:GITWeeklyGameWeeklyProject\#1LibraryPackageCachecom.unity.burst@1.7.1.Runtimehostmaclld filter=lfs diff=lfs merge=lfs -text
+D:GITWeeklyGameWeeklyProject\#1LibraryPackageCachecom.unity.burst@1.7.1.Runtimehostmac filter=lfs diff=lfs merge=lfs -text
+hostmac/** filter=lfs diff=lfs merge=lfs -text
+D:/GIT/WeeklyGame/WeeklyProject\#1/Library/PackageCache/com.unity.burst@1.7.1/.Runtime/hostmac/** filter=lfs diff=lfs merge=lfs -text
+lld filter=lfs diff=lfs merge=lfs -text
